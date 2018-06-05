@@ -11,7 +11,9 @@ def skip-step
   puts "Lower right foot to the ground"
   puts "Bounce right foot back up slightly, kicking it a few inches back"
   puts "Left,Right,Left and Left"
-  skip step right 
+end 
+
+def 
   puts "Lower right foot to the ground"
   puts "Bounce right foot back up slightly, kicking it a few inches back"
   puts "Right,Left,Right and Right"
