@@ -23,4 +23,10 @@ def upper_body
   puts "Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times."
 end 
 
+def upper_body
+  puts "Start arm movement by holding left arm so the back of yout wrist is near your chin, pointing you left elbow straight left."
+  puts "Left righr arm up and point right elbow diagonally to the right."
+  puts "Raise right forearm so that it points straight up, and whip it in small circles to the beat of the song, as if you were a cowboy holding a rope lasso. This movement is repeated eight times as well."
+end 
+
 def 
